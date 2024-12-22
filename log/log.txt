@@ -1,0 +1,144 @@
+> step 10: batch_loss 0.4555 | norm 0.6854 | lr 0.002970
+> step 20: batch_loss 0.4766 | norm 1.1236 | lr 0.005941
+> step 30: batch_loss 0.4869 | norm 1.6507 | lr 0.008911
+> step 40: batch_loss 0.4930 | norm 1.4789 | lr 0.011881
+> step 50: batch_loss 0.5017 | norm 1.5784 | lr 0.014851
+>> step 50: val_loss 0.4801
+> step 60: batch_loss 0.5204 | norm 0.7941 | lr 0.017822
+> step 70: batch_loss 0.4396 | norm 0.5678 | lr 0.020792
+> step 80: batch_loss 0.4213 | norm 0.3975 | lr 0.023762
+> step 90: batch_loss 0.4356 | norm 0.4117 | lr 0.026733
+> step 100: batch_loss 0.4616 | norm 0.1524 | lr 0.029703
+>> step 100: val_loss 0.4416
+> step 110: batch_loss 0.4538 | norm 0.1068 | lr 0.029996
+> step 120: batch_loss 0.4392 | norm 0.1250 | lr 0.029980
+> step 130: batch_loss 0.4361 | norm 0.1456 | lr 0.029954
+> step 140: batch_loss 0.4413 | norm 0.1562 | lr 0.029916
+> step 150: batch_loss 0.4337 | norm 0.2541 | lr 0.029868
+>> step 150: val_loss 0.4370
+> step 160: batch_loss 0.4422 | norm 0.0692 | lr 0.029809
+> step 170: batch_loss 0.4375 | norm 0.0952 | lr 0.029739
+> step 180: batch_loss 0.4518 | norm 0.1018 | lr 0.029658
+> step 190: batch_loss 0.4198 | norm 0.0592 | lr 0.029566
+> step 200: batch_loss 0.4277 | norm 0.0579 | lr 0.029464
+>> step 200: val_loss 0.4471
+> step 210: batch_loss 0.4311 | norm 0.0810 | lr 0.029351
+> step 220: batch_loss 0.4383 | norm 0.0509 | lr 0.029228
+> step 230: batch_loss 0.4567 | norm 0.0732 | lr 0.029094
+> step 240: batch_loss 0.4581 | norm 0.1113 | lr 0.028950
+> step 250: batch_loss 0.4221 | norm 0.0662 | lr 0.028796
+>> step 250: val_loss 0.4302
+> step 260: batch_loss 0.4111 | norm 0.0772 | lr 0.028632
+> step 270: batch_loss 0.4526 | norm 0.0991 | lr 0.028458
+> step 280: batch_loss 0.4244 | norm 0.0658 | lr 0.028274
+> step 290: batch_loss 0.4500 | norm 0.0861 | lr 0.028081
+> step 300: batch_loss 0.4433 | norm 0.0963 | lr 0.027878
+>> step 300: val_loss 0.4308
+> step 310: batch_loss 0.4652 | norm 0.0284 | lr 0.027666
+> step 320: batch_loss 0.4313 | norm 0.0697 | lr 0.027444
+> step 330: batch_loss 0.4264 | norm 0.0834 | lr 0.027214
+> step 340: batch_loss 0.4424 | norm 0.0808 | lr 0.026975
+> step 350: batch_loss 0.4182 | norm 0.0445 | lr 0.026728
+>> step 350: val_loss 0.4351
+> step 360: batch_loss 0.4452 | norm 0.0603 | lr 0.026472
+> step 370: batch_loss 0.4264 | norm 0.0448 | lr 0.026208
+> step 380: batch_loss 0.4408 | norm 0.0668 | lr 0.025936
+> step 390: batch_loss 0.4337 | norm 0.0652 | lr 0.025657
+> step 400: batch_loss 0.4632 | norm 0.0678 | lr 0.025370
+>> step 400: val_loss 0.4296
+> step 410: batch_loss 0.4086 | norm 0.0918 | lr 0.025075
+> step 420: batch_loss 0.4238 | norm 0.0665 | lr 0.024774
+> step 430: batch_loss 0.4392 | norm 0.0664 | lr 0.024466
+> step 440: batch_loss 0.4463 | norm 0.1143 | lr 0.024152
+> step 450: batch_loss 0.4438 | norm 0.1168 | lr 0.023831
+>> step 450: val_loss 0.4330
+> step 460: batch_loss 0.4406 | norm 0.0609 | lr 0.023504
+> step 470: batch_loss 0.4416 | norm 0.0580 | lr 0.023172
+> step 480: batch_loss 0.4199 | norm 0.0554 | lr 0.022834
+> step 490: batch_loss 0.4383 | norm 0.0995 | lr 0.022491
+> step 500: batch_loss 0.4326 | norm 0.0590 | lr 0.022143
+>> step 500: val_loss 0.4321
+> step 510: batch_loss 0.4434 | norm 0.1505 | lr 0.021791
+> step 520: batch_loss 0.4261 | norm 0.0703 | lr 0.021434
+> step 530: batch_loss 0.4120 | norm 0.1604 | lr 0.021073
+> step 540: batch_loss 0.4404 | norm 0.1257 | lr 0.020708
+> step 550: batch_loss 0.4168 | norm 0.0823 | lr 0.020340
+>> step 550: val_loss 0.4324
+> step 560: batch_loss 0.4380 | norm 0.0862 | lr 0.019969
+> step 570: batch_loss 0.4263 | norm 0.0813 | lr 0.019595
+> step 580: batch_loss 0.4573 | norm 0.2515 | lr 0.019219
+> step 590: batch_loss 0.4441 | norm 0.1380 | lr 0.018840
+> step 600: batch_loss 0.4452 | norm 0.1831 | lr 0.018459
+>> step 600: val_loss 0.4559
+> step 610: batch_loss 0.4399 | norm 0.0992 | lr 0.018077
+> step 620: batch_loss 0.4473 | norm 0.0736 | lr 0.017694
+> step 630: batch_loss 0.4255 | norm 0.0520 | lr 0.017309
+> step 640: batch_loss 0.4484 | norm 0.0852 | lr 0.016924
+> step 650: batch_loss 0.4432 | norm 0.0648 | lr 0.016539
+>> step 650: val_loss 0.4353
+> step 660: batch_loss 0.4281 | norm 0.1156 | lr 0.016153
+> step 670: batch_loss 0.4445 | norm 0.1297 | lr 0.015768
+> step 680: batch_loss 0.4563 | norm 0.6603 | lr 0.015383
+> step 690: batch_loss 0.4429 | norm 0.4280 | lr 0.014999
+> step 700: batch_loss 0.4580 | norm 0.0586 | lr 0.014617
+>> step 700: val_loss 0.4450
+> step 710: batch_loss 0.4356 | norm 0.1294 | lr 0.014236
+> step 720: batch_loss 0.4550 | norm 0.1668 | lr 0.013857
+> step 730: batch_loss 0.4814 | norm 0.5429 | lr 0.013480
+> step 740: batch_loss 0.4379 | norm 0.0960 | lr 0.013105
+> step 750: batch_loss 0.4468 | norm 0.0671 | lr 0.012734
+>> step 750: val_loss 0.4317
+> step 760: batch_loss 0.4333 | norm 0.0588 | lr 0.012365
+> step 770: batch_loss 0.4282 | norm 0.0746 | lr 0.012000
+> step 780: batch_loss 0.4104 | norm 0.0927 | lr 0.011638
+> step 790: batch_loss 0.4274 | norm 0.0834 | lr 0.011280
+> step 800: batch_loss 0.4344 | norm 0.0813 | lr 0.010927
+>> step 800: val_loss 0.4307
+> step 810: batch_loss 0.4440 | norm 0.1556 | lr 0.010578
+> step 820: batch_loss 0.4542 | norm 0.2553 | lr 0.010234
+> step 830: batch_loss 0.4736 | norm 0.1217 | lr 0.009895
+> step 840: batch_loss 0.4311 | norm 0.0956 | lr 0.009562
+> step 850: batch_loss 0.4254 | norm 0.1049 | lr 0.009234
+>> step 850: val_loss 0.4290
+> step 860: batch_loss 0.4493 | norm 0.1369 | lr 0.008912
+> step 870: batch_loss 0.4468 | norm 0.1753 | lr 0.008596
+> step 880: batch_loss 0.4539 | norm 0.1021 | lr 0.008287
+> step 890: batch_loss 0.4073 | norm 0.0858 | lr 0.007984
+> step 900: batch_loss 0.4311 | norm 0.1098 | lr 0.007689
+>> step 900: val_loss 0.4297
+> step 910: batch_loss 0.4042 | norm 0.0702 | lr 0.007400
+> step 920: batch_loss 0.4610 | norm 0.1116 | lr 0.007119
+> step 930: batch_loss 0.4166 | norm 0.1158 | lr 0.006846
+> step 940: batch_loss 0.4301 | norm 0.0355 | lr 0.006580
+> step 950: batch_loss 0.4259 | norm 0.0617 | lr 0.006323
+>> step 950: val_loss 0.4288
+> step 960: batch_loss 0.4516 | norm 0.0894 | lr 0.006074
+> step 970: batch_loss 0.4218 | norm 0.1284 | lr 0.005833
+> step 980: batch_loss 0.4103 | norm 0.0552 | lr 0.005601
+> step 990: batch_loss 0.4040 | norm 0.0605 | lr 0.005378
+> step 1000: batch_loss 0.4560 | norm 0.1384 | lr 0.005164
+>> step 1000: val_loss 0.4266
+> step 1010: batch_loss 0.4232 | norm 0.0687 | lr 0.004959
+> step 1020: batch_loss 0.4057 | norm 0.1109 | lr 0.004764
+> step 1030: batch_loss 0.4096 | norm 0.0966 | lr 0.004578
+> step 1040: batch_loss 0.4347 | norm 0.1501 | lr 0.004402
+> step 1050: batch_loss 0.4055 | norm 0.0402 | lr 0.004236
+>> step 1050: val_loss 0.4268
+> step 1060: batch_loss 0.4190 | norm 0.0463 | lr 0.004080
+> step 1070: batch_loss 0.3915 | norm 0.0691 | lr 0.003934
+> step 1080: batch_loss 0.4288 | norm 0.1100 | lr 0.003798
+> step 1090: batch_loss 0.4052 | norm 0.1122 | lr 0.003673
+> step 1100: batch_loss 0.4211 | norm 0.0787 | lr 0.003558
+>> step 1100: val_loss 0.4232
+> step 1110: batch_loss 0.4316 | norm 0.1627 | lr 0.003453
+> step 1120: batch_loss 0.4209 | norm 0.1036 | lr 0.003360
+> step 1130: batch_loss 0.4150 | norm 0.0844 | lr 0.003277
+> step 1140: batch_loss 0.4344 | norm 0.0813 | lr 0.003204
+> step 1150: batch_loss 0.4241 | norm 0.1965 | lr 0.003143
+>> step 1150: val_loss 0.4253
+> step 1160: batch_loss 0.4354 | norm 0.0520 | lr 0.003092
+> step 1170: batch_loss 0.4123 | norm 0.2044 | lr 0.003053
+> step 1180: batch_loss 0.4118 | norm 0.0671 | lr 0.003024
+> step 1190: batch_loss 0.4065 | norm 0.2043 | lr 0.003007
+> step 1200: batch_loss 0.4418 | norm 0.0854 | lr 0.003000
+>> step 1200: val_loss 0.4231
