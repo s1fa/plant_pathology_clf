@@ -1,0 +1,10 @@
+*.parquet
+__pycache__/
+*.pth
+.gitattributes
+.gradio/
+*.out
+*.log
+*.sh
+1_first_train_CE/
+2_second_train_BCE/
