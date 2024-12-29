@@ -59,12 +59,12 @@ with gr.Blocks(theme=gr.themes.Soft(),
         # Plant Pathology Classifier
         '''
     )
-    img = gr.Image(sources=['upload', 'clipboard'],
+    img = gr.Image(sources=['upload'],
                          type='pil',
                          label='Input Image')
-    label = gr.Label()
     device = gr.Radio(['auto', 'cpu', 'cuda', 'mps'],
                         label='Device')
+    label = gr.Label()
     btn = gr.Button('Classify')
     btn.click(inference, [img, device], label)
 
